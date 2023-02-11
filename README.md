@@ -1,7 +1,7 @@
 # RPi Alarm System with Buttons
 
 
-**Objective**: grasping the fundamentals of hardware in IoT.
+**Objective**: grasping the fundamentals of hardware in IoT with a nanocomputer and the Python language. Build basic interfaces.
 
 Raspberry Pi alarm system with buttons; with Tkinter
 
