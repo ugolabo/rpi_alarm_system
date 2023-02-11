@@ -1,4 +1,4 @@
-# RPi Alarm System with Buttons
+# RPi Alarm System
 
 
 **Objective**: grasp the fundamentals of hardware in IoT with a nanocomputer and the Python language. Build basic interfaces.
