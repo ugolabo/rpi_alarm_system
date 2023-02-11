@@ -1,5 +1,8 @@
 # RPi Alarm System with Buttons
 
+
+**Objective**: grasping the fundamentals of hardware in IoT.
+
 Raspberry Pi alarm system with buttons; with Tkinter
 
 |  |  |
