@@ -1,9 +1,8 @@
-# RPi Alarm System on Raspberry Pi
-
+# RPi Alarm System
 
 **Objective**: grasp the fundamentals of hardware in IoT with a nanocomputer and the Python language. Build basic interfaces.
 
-Raspberry Pi alarm system with buttons; with Tkinter
+Raspberry Pi alarm system
 
 |  |  |
 |--|--|
