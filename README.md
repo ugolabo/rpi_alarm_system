@@ -10,7 +10,7 @@ Schéma Fritzing global avec un Raspberry Pi 3 (le projet a été fait avec un R
 
 | Schéma bouton | Schéma contact  | Schéma DEL  |
 |:---|:---|:---|
-| <img src="img/schema_bouton.jpg" alt="" width="150"> | <img src="img/schema_contact.jpg" alt="" width="150">  | <img src="img/schema_dels.jpg" alt="" width="150">  |
+| <img src="img/schema_bouton.jpg" alt="" width="200"> | <img src="img/schema_contact.jpg" alt="" width="200">  | <img src="img/schema_dels.jpg" alt="" width="200">  |
 
 Diagramme d'états
 
