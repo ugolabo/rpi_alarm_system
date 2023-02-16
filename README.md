@@ -26,12 +26,3 @@ Diagramme d'états
 
 <img src="img/diagramme_etat.jpg" alt="">
 
-Code source `projet_v1.py`:
-
-- configurer le montage, le Rpi, les broches, les rappels, le destinataire du courriel, les fils d'exécution (*thread*), etc.
-- veiller et gérer les évènements pour changer les états (contact branché/débranché, système armé/désarmé, état d'alerte ou non
-  - appuyer sur le bouton arme ou désarme le système
-  - brancher et débrancher le contact n'a aucun effet si le système est désarmé
-  - quand le système est armé, la DEL rouge allume; débrancher le contact donne 3 secondes pour désarmer le système sinon l'alarme démarre, la DEL jaune clignote et un courriel est envoyé à un destinataire
-  - quand l'alarme est enclenchée, brancher et débrancher le contact n'a plus d'effet
-  - quand l'alarme est enclenchée, appuyer sur le bouton désarme le système et arrête l'alarme
