@@ -6,7 +6,7 @@
 
 Schéma Fritzing global
 
-<img src="img/diagramme_fritzing.jpg" alt="" width="400">
+<img src="img/diagramme_fritzing.jpg" alt="" width="800">
 
 | Schéma bouton | Schéma contact  | Schéma DEL  |
 |:---|:---|:---|
@@ -14,5 +14,4 @@ Schéma Fritzing global
 
 Diagramme d'états
 
-<img src="img/diagramme_etat.jpg" alt="" width="150">
-
+<img src="img/diagramme_etat.jpg" alt="" width="600">
