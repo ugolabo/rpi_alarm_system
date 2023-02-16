@@ -33,4 +33,4 @@ Diagramme d'états
 | Échantillons |   |
 |:---|:---|
 | <img src="img/console1.gif" alt="" width="200">  | <img src="img/console2.gif" alt="" width="200"> |
-| <img src="img/console3gif" alt="" width="200">  | <img src="img/console4gif" alt="" width="200"> |
+| <img src="img/console3.gif" alt="" width="200">  | <img src="img/console4.gif" alt="" width="200"> |
