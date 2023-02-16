@@ -1,0 +1,1 @@
+DEST = "destinataire@gmail.com"
