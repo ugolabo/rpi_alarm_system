@@ -6,7 +6,7 @@
 
 Schéma Fritzing global avec un Raspberry Pi 3 (le projet a été fait avec un RPi4)
 
-<img src="img/diagramme_fritzing.jpg" alt="" width="800">
+<img src="img/diagramme_fritzing.jpg" alt="">
 
 | Schéma bouton | Schéma contact  | Schéma DEL  |
 |:---|:---|:---|
@@ -14,4 +14,4 @@ Schéma Fritzing global avec un Raspberry Pi 3 (le projet a été fait avec un R
 
 Diagramme d'états
 
-<img src="img/diagramme_etat.jpg" alt="" width="400">
+<img src="img/diagramme_etat.jpg" alt="">
