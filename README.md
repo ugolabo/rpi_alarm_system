@@ -32,6 +32,6 @@ Diagramme d'états
 
 | Clavier | Armer, désarmer  |
 |:---|:---|
-| <img src="img/console1.gif" alt="" width="350">  | <img src="img/console2.gif" alt="" width="250"> |
-| **Armer, déarmer**  | **Armer, déclencer, désarmer** |
+| <img src="img/console1.gif" alt="" width="250">  | <img src="img/console2.gif" alt="" width="250"> |
+| **Armer, laisser**  | **Armer, déclencher, désarmer** |
 | <img src="img/console3.gif" alt="" width="250">  | <img src="img/console4.gif" alt="" width="250"> |
