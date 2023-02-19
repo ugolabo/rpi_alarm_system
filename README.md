@@ -36,7 +36,7 @@ Diagramme d'états
 
 ## Projet, v2: système d'alarme avec console Pygame
 
-**Objectif:** poursuivre avec la programmation embarquée et s'initier à la programmation orientée objet en Python pour gérer les états et les changements d’état avec des classes et `enum`, la journalisation (*logging*) avec `logging`, les interface graphique (*GUI*) avec `pygame`, les images avec `PIL`, plus d’évènements sur le système (clavier, souris), plus d'extractions web avec `pyowm`, l'importation de données de fichiers YAML, la gestion de paquets et la configuration des fichiers et dossiers Python avec des fichiers comme `__init__.py` et `main.py` ou une ligne d'instruction comme  `__name__ == "__main__":` et plus.
+**Objectif:** poursuivre avec la programmation embarquée et s'initier à la programmation orientée objet en Python pour gérer les états et les changements d’état, la journalisation (*logging*), les interface graphique (*GUI*), la gestion de plus d'évènements sur le système (clavier, souris), la récupération de données du web avec un *API* (OWM), l'importation de données de fichiers YAML, la gestion de paquets et la configuration des fichiers et dossiers Python avec des fichiers comme `__init__.py` et `main.py` ou une ligne d'instruction comme  `__name__ == "__main__":` et plus.
 
 | Clavier | Armer, désarmer  |
 |:---|:---|
