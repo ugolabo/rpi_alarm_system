@@ -12,10 +12,10 @@ Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur 
 Montage:
 
 1. un contact représentant une porte ou une fenêtre
-  - lorsque le fil est branché, le circuit est fermé et l'état du contact est actif
-  - lorsque le fil est débranché, le circuit est ouvert et l'état du contact est inactif
+   - lorsque le fil est branché, le circuit est fermé et l'état du contact est actif
+   - lorsque le fil est débranché, le circuit est ouvert et l'état du contact est inactif
 2. un bouton
-  - pour armer ou désarmer le système: état armé ou désarmé
+   - pour armer ou désarmer le système: état armé ou désarmé
 3. une DEL rouge allumée; système en état armé
 4. une DEL jaune clignotante; système en état d'alerte
 
