@@ -39,7 +39,7 @@ Diagramme d'états
 
 ## Projet, v2: avec console Pygame
 
-**Objectif:** poursuivre avec la programmation embarquée et s'initier à la programmation orientée objet en Python pour gérer les états et les changements d’état, la journalisation (*logging*), la conception d'interfaces graphiques (avec Pygame), la gestion de plus d'évènements sur le système (clavier, souris), la récupération de données du web avec un *API* (OWM), l'importation de données de fichiers YAML, l'architecture de paquets et la configuration des fichiers et dossiers Python avec des fichiers comme `__init__.py` et `main.py` ou une ligne d'instruction comme  `__name__ == "__main__":` et plus.
+**Objectif:** poursuivre avec la programmation embarquée et s'initier à la programmation orientée objet en Python pour gérer les états et les changements d’état, la journalisation (*logging*), la conception d'interfaces graphiques (avec Pygame), la gestion de plus d'évènements sur le système (clavier, souris), la récupération de données du web avec un *API* (OWM), l'importation de données de fichiers YAML, l'architecture de paquets et la configuration des fichiers et dossiers Python avec des fichiers comme __init__.py et main.py ou une ligne d'instruction comme  `__name__ == "__main__":` et plus.
 
 | Clavier | Armer, désarmer  |
 |:---|:---|
