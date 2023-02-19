@@ -3,7 +3,7 @@
 Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur des Raspberry Pi**: <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>
 
 - [Projet, v1](#projet-v1-syst%C3%A8me-dalarme-avec-bouton)
-- [Projet, v2]()
+- [Projet, v2](#projet-v2-syst%C3%A8me-dalarme-avec-console-pygame)
 
 ## Projet, v1: système d'alarme avec bouton
 
