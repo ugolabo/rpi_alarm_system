@@ -2,10 +2,10 @@
 
 Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur des Raspberry Pi**: <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>
 
-1. [Projet, v1](#projet-v1-syst%C3%A8me-dalarme-avec-bouton)
-2. [Projet, v2](#projet-v2-syst%C3%A8me-dalarme-avec-console-pygame)
+1. [Projet, v1](#projet-v1-avec-bouton)
+2. [Projet, v2](#projet-v2-avec-console-pygame)
 
-## Projet, v1: système d'alarme avec bouton
+## Projet, v1: avec bouton
 
 **Objectif:** maitriser les fondements des nanoordinateurs (Raspberry Pi), des OS Linux (Raspbian, mais aussi Ubuntu, les CLI) et de montages, du langage Python embarqué, de concepts comme les rappels haut et bas, les fils d'exécution (*thread*), les évènements sur le système (boutons), la gestion du temps, le protocole SMTP pour les courriels, et plus afin de construire des projets simples en IoT et de pouvoir collaborer avec des spécialistes de ces domaines dans des projets avancés.
 
@@ -37,7 +37,7 @@ Diagramme d'états
 
 <img src="img/diagramme_etat.jpg" alt="">
 
-## Projet, v2: système d'alarme avec console Pygame
+## Projet, v2: avec console Pygame
 
 **Objectif:** poursuivre avec la programmation embarquée et s'initier à la programmation orientée objet en Python pour gérer les états et les changements d’état, la journalisation (*logging*), la conception d'interfaces graphiques (avec Pygame), la gestion de plus d'évènements sur le système (clavier, souris), la récupération de données du web avec un *API* (OWM), l'importation de données de fichiers YAML, l'architecture de paquets et la configuration des fichiers et dossiers Python avec des fichiers comme `__init__.py` et `main.py` ou une ligne d'instruction comme  `__name__ == "__main__":` et plus.
 
