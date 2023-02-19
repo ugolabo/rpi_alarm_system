@@ -2,6 +2,9 @@
 
 Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur des Raspberry Pi**: <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>
 
+- [Projet, v1]()
+- [Projet, v2]()
+
 ## Projet, v1: système d'alarme avec bouton
 
 **Objectif:** maitriser les fondements des nanoordinateurs (Raspberry Pi), des OS Linux (Raspbian, mais aussi Ubuntu, les CLI) et de montages, du langage Python embarqué, de concepts comme les rappels haut et bas, les fils d'exécution (*thread*), les évènements sur le système (boutons), la gestion du temps, le protocole SMTP pour les courriels, et plus afin de construire des projets simples en IoT et de pouvoir collaborer avec des spécialistes de ces domaines dans des projets avancés.
