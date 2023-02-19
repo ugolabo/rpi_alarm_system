@@ -22,6 +22,12 @@ Schéma Fritzing global avec un Raspberry Pi 3 (le projet a été fait avec un R
 |:---|:---|:---|
 | <img src="img/schema_bouton.jpg" alt="" width="200"> | <img src="img/schema_contact.jpg" alt="" width="200">  | <img src="img/schema_dels.jpg" alt="" width="200">  |
 
+L'application du concept du contact est un interrupteur reed ou de mouvement ou de proximité
+
+|   |   |    |
+|:---|:---|:---|
+| <img src="img/reed_switch1.jpg" alt="" width="200"> | <img src="img/reed_switch2.jpg" alt="" width="200">  | <img src="img/reed_switch3.jpg" alt="" width="200">  |
+
 Diagramme d'états
 
 <img src="img/diagramme_etat.jpg" alt="">
