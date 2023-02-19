@@ -11,13 +11,13 @@ Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur 
 
 Montage:
 
-1. un contact représentant une porte ou une fenêtre
-   - lorsque le fil est branché, le circuit est fermé et l'état du contact est actif
-   - lorsque le fil est débranché, le circuit est ouvert et l'état du contact est inactif
-2. un bouton
+1. Un contact représentant une porte ou une fenêtre
+   - Lorsque le fil est branché, le circuit est fermé et l'état du contact est actif
+   - Lorsque le fil est débranché, le circuit est ouvert et l'état du contact est inactif
+2. Un bouton
    - pour armer ou désarmer le système: état armé ou désarmé
-3. une DEL rouge allumée; système en état armé
-4. une DEL jaune clignotante; système en état d'alerte
+3. Une DEL rouge allumée; système en état armé
+4. Une DEL jaune clignotante; système en état d'alerte
 
 Schéma Fritzing global avec un Raspberry Pi 3 (le projet a été fait avec un RPi4)
 
