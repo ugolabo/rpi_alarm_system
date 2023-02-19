@@ -7,7 +7,7 @@ Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur 
 
 ## Projet, v1: avec bouton
 
-**Objectif:** maitriser les fondements des nanoordinateurs (Raspberry Pi), des OS Linux (Raspbian, mais aussi Ubuntu, les CLI) et de montages, du langage Python embarqué, de concepts comme les rappels haut et bas, les fils d'exécution (*thread*), les évènements sur le système (boutons), la gestion du temps, le protocole SMTP pour les courriels, et plus afin de construire des projets simples en IoT et de pouvoir collaborer avec des spécialistes de ces domaines dans des projets avancés.
+**Objectif:** maitriser les fondements des nanoordinateurs (Raspberry Pi), des OS Linux (Raspbian, mais aussi Ubuntu, les CLI) et de montages, du langage Python embarqué, de concepts comme les rappels haut et bas, les fils d'exécution (*thread*), des évènements sur le système (boutons), de la gestion du temps, du protocole SMTP pour les courriels et plus afin de construire des projets simples en IoT et de pouvoir collaborer avec des spécialistes de ces domaines dans des projets avancés.
 
 Montage:
 
