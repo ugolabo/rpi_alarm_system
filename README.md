@@ -2,8 +2,8 @@
 
 Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur des Raspberry Pi**: <a href="https://github.com/ugolabo/domotique_commandes_vocales">bouton droit vers repo</a>
 
-- [Projet, v1](#projet-v1-syst%C3%A8me-dalarme-avec-bouton)
-- [Projet, v2](#projet-v2-syst%C3%A8me-dalarme-avec-console-pygame)
+1. [Projet, v1](#projet-v1-syst%C3%A8me-dalarme-avec-bouton)
+2. [Projet, v2](#projet-v2-syst%C3%A8me-dalarme-avec-console-pygame)
 
 ## Projet, v1: système d'alarme avec bouton
 
@@ -11,13 +11,13 @@ Des projets proches du projet **Domotique avec commandes vocales et Tkinter sur 
 
 Montage:
 
-- un contact représentant une porte ou une fenêtre
+1. un contact représentant une porte ou une fenêtre
   - lorsque le fil est branché, le circuit est fermé et l'état du contact est actif
   - lorsque le fil est débranché, le circuit est ouvert et l'état du contact est inactif
-- un bouton
+2. un bouton
   - pour armer ou désarmer le système: état armé ou désarmé
-- une DEL rouge allumée; système en état armé
-- une DEL jaune clignotante; système en état d'alerte
+3. une DEL rouge allumée; système en état armé
+4. une DEL jaune clignotante; système en état d'alerte
 
 Schéma Fritzing global avec un Raspberry Pi 3 (le projet a été fait avec un RPi4)
 
